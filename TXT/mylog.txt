@@ -7,3 +7,5 @@ ZCZC W00 120 L10 Assignment #00
 ZCZC W00 075 L02 ZOOM meetings related (thursday class)
 ZCZC W00 035 L05 Quiz related (read slide week 00 and week 01)
 ZCZC W00 005 L22 Quiz (week 00)
+ZCZC W01 110 L02 ZOOM meetings related (tuesday class)
+ZCZC W01 100 L06 GSGS Pop Quiz related
