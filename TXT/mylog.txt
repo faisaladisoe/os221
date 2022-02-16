@@ -10,4 +10,4 @@ ZCZC W00 005 L22 Quiz (week 00)
 
 ZCZC W01 110 L02 ZOOM meetings related (tuesday class)
 ZCZC W01 100 L06 GSGS Pop Quiz related
-ZCZC W01 090 L11 Assignment #01 (50% progress)
+ZCZC W01 210 L11 Assignment #01 (100% progress)
