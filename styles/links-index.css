@@ -1,0 +1,33 @@
+#link-header {
+  margin: 2rem 0;
+  text-align: center;
+}
+
+#mainHeader {
+  color: burlywood;
+  text-align: center;
+  font-size: 1.75rem;
+  padding-bottom: 1.5rem;
+}
+
+#link-introduction {
+  width: 60%;
+  margin: 2rem auto 0;
+}
+
+hr {
+  height: 5px;
+  border: none;
+  color: #333;
+  overflow: visible;
+  text-align: center;
+  border-top: 3px double #333;
+}
+
+hr:after {
+  top: -13px;
+  content: '§';
+  padding: 0 4px;
+  background: #fff;
+  position: relative;
+}
