@@ -12,6 +12,6 @@ ZCZC W01 110 L02 ZOOM meetings related (tuesday class)
 ZCZC W01 075 L02 ZOOM meetings related (thursday class)
 ZCZC W01 100 L06 GSGS Pop Quiz related
 ZCZC W01 300 L11 Assignment #01 (Completed)
-ZCZC W01 045 L12 Assignment #02 (50% progress)
+ZCZC W01 120 L12 Assignment #02 (Completed)
 ZCZC W01 090 L13 Assignment #03 (Completed)
 ZCZC W01 010 L14 Assignment #04 (Completed)
