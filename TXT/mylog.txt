@@ -24,4 +24,4 @@ ZCZC W02 300 L09 Assignment in General
 ZCZC W02 020 L07 Demo to friend
 
 ZCZC W03 110 L02 ZOOM meetings related (tuesday class)
-ZCZC W02 060 L09 Assignment in General
+ZCZC W03 090 L09 Assignment in General
