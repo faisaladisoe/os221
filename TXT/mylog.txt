@@ -37,4 +37,4 @@ ZCZC W05 150 L09 Assignment in General
 ZCZC W05 110 L02 ZOOM meetings related (tuesday class + QUIZ)
 
 ZCZC W06 110 L02 ZOOM meetings related (tuesday class)
-ZCZC W05 120 L09 Assignment in General
+ZCZC W06 120 L09 Assignment in General
