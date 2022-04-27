@@ -47,3 +47,7 @@ ZCZC W07 150 L09 Assignment in General
 ZCZC W07 090 L02 ZOOM meetings related (thursday class)
 ZCZC W07 025 L05 Weekly QUIZ
 ZCZC W07 060 L06 References and GSGS related
+
+ZCZC W08 110 L02 ZOOM meetings related (tuesday class)
+ZCZC W08 240 L09 Assignment in General
+ZCZC W08 120 L06 References and GSGS related
