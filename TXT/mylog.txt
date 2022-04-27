@@ -51,3 +51,4 @@ ZCZC W07 060 L06 References and GSGS related
 ZCZC W08 110 L02 ZOOM meetings related (tuesday class)
 ZCZC W08 240 L09 Assignment in General
 ZCZC W08 120 L06 References and GSGS related
+ZCZC W08 030 L21 Trying something
